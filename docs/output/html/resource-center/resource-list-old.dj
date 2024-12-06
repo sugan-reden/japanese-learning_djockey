@@ -1,0 +1,63 @@
+# Resource List (old)
+
+An old list of Japanese learning resources. First version. Needs an update.
+
+::: note
+This project is still in active developement. Things may change. The following is taken from the original
+`README.md` from the original repo.
+:::
+
+## Japanese Learning
+
+Welcome to the Japanese Learning Resource repo! Please feel free to make any suggestions to either add or
+update content.
+
+::: note
+At the risk of repeating myself, please be advised that this is a work in progress. This initially started as
+a project that was just for me, so please be mindful of that.
+:::
+
+::: tip
+random tip test
+:::
+
+### Dictionaries
+
+*Desktop*
+
+- Jisho
+
+*Mobile*
+
+- Jotoba
+
+### Kanji and Vocab Learning
+
+*WaniKani*
+
+- For iOS, see Tsurukame.
+- For Android, see Smouldering Durtles.
+
+*Anki*
+
+- Mainly for desktop. For a mobile version, please look at AnkiWeb.
+
+## Quick Translation
+
+*Google Translate* ❌
+
+::: warning
+Please try to avoid *Google Translate*. Most of the time, the translations are inaccurate and end up being
+misleading for one who is learning a language. Particularly because, in my experience, it seems to often
+literal translations with very little acknowledgement of context.
+:::
+
+*DeepL* ✅ - Generally a far better option than *Google Translate*, but still try to limit your quick
+translations to a minimum. In any case, the more you learn, the more the need to lean on this tool will
+probably diminish.
+
+### Communities and Mentalities
+
+- Refold
+- AJATT
+- The Moe Way

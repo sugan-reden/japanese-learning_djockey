@@ -1,0 +1,6 @@
+input_dir: src
+output_dir:
+  html: output\html
+  gfm: output\gfm
+site_name: "Japanese Learning Handbook"
+url_root: https://suganreden-japaneselearninghandbook.com
