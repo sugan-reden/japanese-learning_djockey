@@ -2,7 +2,8 @@
 
 An old list of Japanese learning resources. First version. Needs an update.
 
-::: note
+{.note}
+:::
 This project is still in active developement. Things may change. The following is taken from the original
 `README.md` from the original repo.
 :::
@@ -12,12 +13,14 @@ This project is still in active developement. Things may change. The following i
 Welcome to the Japanese Learning Resource repo! Please feel free to make any suggestions to either add or
 update content.
 
-::: note
+{.note}
+:::
 At the risk of repeating myself, please be advised that this is a work in progress. This initially started as
 a project that was just for me, so please be mindful of that.
 :::
 
-::: tip
+{.tip}
+:::
 random tip test
 :::
 
@@ -46,7 +49,8 @@ random tip test
 
 *Google Translate* ❌
 
-::: warning
+{.warning}
+:::
 Please try to avoid *Google Translate*. Most of the time, the translations are inaccurate and end up being
 misleading for one who is learning a language. Particularly because, in my experience, it seems to often
 literal translations with very little acknowledgement of context.
